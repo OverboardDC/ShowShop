@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SnowShop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SnowShop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SnowShop:war exploded" />
+    </root>
+  </artifact>
+</component>
