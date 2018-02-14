@@ -7,13 +7,15 @@
     <property name="connection.url">jdbc:mysql://localhost:3306/onlineshop</property>
     <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
-    <property name="show_sql">true</property>
+    <property name="show_sql">false</property>
     <mapping class="com.over.snowshop.entities.Category"/>
     <mapping class="com.over.snowshop.entities.Section"/>
     <mapping class="com.over.snowshop.entities.Product"/>
     <mapping class="com.over.snowshop.entities.Brand"/>
     <mapping class="com.over.snowshop.entities.Filter"/>
     <mapping class="com.over.snowshop.entities.FilterValue"/>
+    <mapping class="com.over.snowshop.entities.Order"/>
+    <mapping class="com.over.snowshop.entities.OrderedProduct"/>
     <!-- <property name="connection.username"/> -->
     <!-- <property name="connection.password"/> -->
 

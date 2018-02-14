@@ -55,6 +55,17 @@ public class Product implements Serializable{
     })
     private Set<FilterValue> filterValues;
 
+    @ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
+    @JoinTable(name = "productorder", schema = "snowshop"
+            ,joinColumns = {
+            @JoinColumn(name = "product_id")}, inverseJoinColumns = {
+            @JoinColumn(name = "order_id")
+    })
+    private Set<Order> orders;
+
+    @OneToMany(mappedBy = "product")
+    private Set<OrderedProduct> orderedProducts;
+
     public Long getId() {
         return id;
     }
@@ -133,6 +144,22 @@ public class Product implements Serializable{
 
     public void setDate(Date date) {
         this.date = date;
+    }
+
+    public Set<Order> getOrders() {
+        return orders;
+    }
+
+    public void setOrders(Set<Order> orders) {
+        this.orders = orders;
+    }
+
+    public Set<OrderedProduct> getOrderedProducts() {
+        return orderedProducts;
+    }
+
+    public void setOrderedProducts(Set<OrderedProduct> orderedProducts) {
+        this.orderedProducts = orderedProducts;
     }
 
     @Override

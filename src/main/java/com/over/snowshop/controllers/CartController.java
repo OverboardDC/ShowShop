@@ -1,9 +1,11 @@
 package com.over.snowshop.controllers;
 
+import com.over.snowshop.entities.Order;
 import com.over.snowshop.objects.Cart;
 import com.over.snowshop.objects.CartProduct;
 import com.over.snowshop.objects.SortingTypesMap;
 import com.over.snowshop.services.CategoryService;
+import com.over.snowshop.services.OrderService;
 import com.over.snowshop.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -17,6 +19,7 @@ public class CartController {
 
     private ProductService productService;
     private CategoryService categoryService;
+    private OrderService orderService;
 
     @ModelAttribute
     public void submitAttributes(Model model) {
@@ -59,6 +62,12 @@ public class CartController {
         return "checkout";
     }
 
+    @RequestMapping(value = "/formOrder")
+    public String formOrder(Model model, Order order, HttpSession session){
+        orderService.formOrder(order);
+        return "redirect:/";
+    }
+
     @Autowired
     public void setProductService(ProductService productService) {
         this.productService = productService;
@@ -67,5 +76,10 @@ public class CartController {
     @Autowired
     public void setCategoryService(CategoryService categoryService) {
         this.categoryService = categoryService;
+    }
+
+    @Autowired
+    public void setOrderService(OrderService orderService) {
+        this.orderService = orderService;
     }
 }

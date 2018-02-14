@@ -1,5 +1,6 @@
 package com.over.snowshop.objects;
 
+import com.over.snowshop.entities.OrderedProduct;
 import com.over.snowshop.entities.Product;
 
 import javax.servlet.http.HttpSession;

@@ -7,7 +7,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fa96761-0eca-417c-9a98-f1205eef25d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDaoImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Order.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/OrderedProduct.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/dao/OrderDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/dao/OrderDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/entities/Order.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/entities/OrderedProduct.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/services/OrderService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/services/OrderServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/dao/OrderDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/dao/OrderDaoImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/entities/Order.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/entities/OrderedProduct.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/services/OrderService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/services/OrderServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/52017a7e-a418-4d4b-bce4-df9c4e705a45.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/52017a7e-a418-4d4b-bce4-df9c4e705a45.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SnowShop.iml" afterPath="$PROJECT_DIR$/SnowShop.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/Cart.java" afterPath="$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/Cart.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/controllers/CartController.class" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/controllers/CartController.class" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/dao/FilterDaoImpl.class" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/dao/FilterDaoImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/entities/Product.class" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/entities/Product.class" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/objects/Cart.class" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/com/over/snowshop/objects/Cart.class" />
+      <change beforePath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/SnowShop-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/over/snowshop/controllers/CartController.class" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/controllers/CartController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/over/snowshop/dao/FilterDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/dao/FilterDaoImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/over/snowshop/entities/Product.class" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/entities/Product.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/over/snowshop/objects/Cart.class" afterPath="$PROJECT_DIR$/target/classes/com/over/snowshop/objects/Cart.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,31 +72,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Category.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Category.java">
+      <file leaf-file-name="OrderedProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/OrderedProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="153">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/CartProduct.java">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="169">
+              <caret line="170" column="36" lean-forward="true" selection-start-line="170" selection-start-column="36" selection-end-line="170" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java">
+      <file leaf-file-name="appconfig_mvc.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appconfig_mvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+            <state relative-caret-position="18">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,13 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/appconfig_root.xml" />
-        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/appconfig_mvc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CategoryController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/glassfish-web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/footer.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/CategoryService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/CategoryDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/CategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ImageController.java" />
@@ -109,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/FilterService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/FilterServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/FilterValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/utils/DaoUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Filter.java" />
@@ -125,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/BrandServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/ProductDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ProductController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/products.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/header.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Section.java" />
@@ -134,13 +160,22 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/product.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/CartProduct.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/home.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cart.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/checkout.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/Cart.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/FilterDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/FilterDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/OrderedProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/appconfig_mvc.xml" />
       </list>
     </option>
   </component>
@@ -205,8 +240,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,14 +317,15 @@
               <item name="SnowShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="snowshop" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SnowShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="SnowShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -297,8 +334,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SnowShop" type="b2602c69:ProjectViewProjectNode" />
@@ -321,8 +356,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,19 +373,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Images/snowshopImg/brands/bonfire.jpg" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Overboard\Java\SnowShop\src\main\webapp\resources\css" />
-      <recent name="D:\Overboard\Java\SnowShop\src\main\webapp" />
-      <recent name="D:\Overboard\Java\SnowShop\src\webapp\WEB-INF" />
-      <recent name="D:\Overboard\Java\SnowShop\src\webapp" />
-      <recent name="D:\Overboard\Java\SnowShop\src\webapp\WEB-INF\pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Overboard\Java\SnowShop\src\main\webapp\WEB-INF\pages" />
       <recent name="D:\Overboard\Java\SnowShop\src\main\webapp\resources\images" />
       <recent name="D:\Overboard\Java\SnowShop\src\main\webapp\resources" />
       <recent name="D:\Overboard\Java\SnowShop\src\webapp\WEB-INF\pages" />
       <recent name="D:\Overboard\Java\SnowShop\src\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Overboard\Java\SnowShop\src\main\webapp\resources\css" />
+      <recent name="D:\Overboard\Java\SnowShop\src\main\webapp" />
+      <recent name="D:\Overboard\Java\SnowShop\src\webapp\WEB-INF" />
+      <recent name="D:\Overboard\Java\SnowShop\src\webapp" />
+      <recent name="D:\Overboard\Java\SnowShop\src\webapp\WEB-INF\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -684,18 +718,23 @@
       <workItem from="1517485461635" duration="1091000" />
       <workItem from="1517507473477" duration="1964000" />
       <workItem from="1517604370302" duration="3037000" />
-      <workItem from="1517912482408" duration="1022000" />
+      <workItem from="1517912482408" duration="2409000" />
+      <workItem from="1518167422322" duration="2317000" />
+      <workItem from="1518433142445" duration="3060000" />
+      <workItem from="1518605261376" duration="2909000" />
+      <workItem from="1518608404500" duration="1741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247477000" />
+    <option name="totallyTimeSpent" value="258891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19354838" sideWeight="0.50771207" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3091398" sideWeight="0.51028275" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.218035" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -706,16 +745,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39112905" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21370968" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23655914" sideWeight="0.4922879" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2311828" sideWeight="0.48971722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44623655" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19087404" sideWeight="0.22671354" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.218509" sideWeight="0.77328646" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24327958" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22879177" sideWeight="0.23801066" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22879177" sideWeight="0.76198936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2596401" sideWeight="0.5059423" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -724,9 +764,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21370968" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -742,129 +781,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.brand">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.categorybrand">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.over.snowshop.entities.Brand">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.over.snowshop.entities.Brand</OriginalElement>
-          <nodes>
-            <node x="" y="">javax.persistence.Entity</node>
-            <node x="" y="">javax.persistence.Table</node>
-            <node x="" y="">com.over.snowshop.entities.Brand</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="90.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.over.snowshop.entities.Category">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.over.snowshop.entities.Category</OriginalElement>
-          <nodes>
-            <node x="" y="">com.over.snowshop.entities.Category</node>
-            <node x="" y="">javax.persistence.Entity</node>
-            <node x="" y="">javax.persistence.Table</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="90.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.over.snowshop.entities.Filter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.over.snowshop.entities.Filter</OriginalElement>
-          <nodes>
-            <node x="" y="">javax.persistence.Entity</node>
-            <node x="" y="">javax.persistence.Table</node>
-            <node x="" y="">com.over.snowshop.entities.Filter</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="90.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.categoryfilter">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/FilterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.filter">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/FilterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.filtervalue">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/FilterValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Filter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -900,13 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.productfiltervalue">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/SortingType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -918,35 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="30" column="108" lean-forward="false" selection-start-line="30" selection-start-column="108" selection-end-line="30" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="75" lean-forward="false" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/CategoryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/utils/DaoUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -964,24 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/BrandDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/BrandService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/BrandDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -1003,14 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="409" column="16" lean-forward="false" selection-start-line="409" selection-start-column="16" selection-end-line="409" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/products.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="98" column="32" lean-forward="false" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,14 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/product.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1070,22 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="45" lean-forward="false" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1093,22 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="80" column="87" lean-forward="false" selection-start-line="80" selection-start-column="87" selection-end-line="80" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/CartProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1129,14 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ImageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/SortingTypesMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1145,43 +955,249 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/FilterDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/FilterValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.productorder">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/c8e0b643/52017a7e-a418-4d4b-bce4-df9c4e705a45/snowshop.productfiltervalue">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/CategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/BrandDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/ImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/utils/DaoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/products.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="98" column="32" lean-forward="false" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/BrandDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/FilterDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/FilterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="45" column="41" lean-forward="true" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        <state relative-caret-position="935">
+          <caret line="65" column="23" lean-forward="false" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/objects/CartProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/FilterDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/services/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#1819#1820#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
-            <element signature="e#1893#1894#0" expanded="true" />
-            <element signature="e#1921#1922#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+            <element signature="e#569#570#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/controllers/CartController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        <state relative-caret-position="357">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2845#2846#0" expanded="false" />
+            <element signature="e#2893#2894#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/OrderedProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appconfig_root.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/dao/OrderDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/over/snowshop/entities/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="170" column="36" lean-forward="true" selection-start-line="170" selection-start-column="36" selection-end-line="170" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appconfig_mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1241,7 +1257,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|SnowShop</last-edited>
+          <last-edited>Hibernate|SnowShop</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
