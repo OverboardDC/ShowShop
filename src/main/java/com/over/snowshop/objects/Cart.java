@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Cart implements Serializable{
 
-    private volatile static List<CartProduct> cart = new ArrayList<>();
+    private volatile static List<OrderedProduct> cart = new ArrayList<>();
 
     private static Cart instance;
 
@@ -28,11 +28,11 @@ public class Cart implements Serializable{
         return instance;
     }
 
-    public static List<CartProduct> getCart() {
+    public static List<OrderedProduct> getCart() {
         return cart;
     }
 
-    public static void addToCart(CartProduct product){
+    public static void addToCart(OrderedProduct product){
         cart.add(product);
     }
 
@@ -46,14 +46,14 @@ public class Cart implements Serializable{
 
     public static double getTotalPrice(){
         double totalPrice = 0;
-        for(CartProduct cartProduct : cart){
+        for(OrderedProduct cartProduct : cart){
            totalPrice = totalPrice + cartProduct.getFullPrice();
         }
         return totalPrice;
     }
 
     public static boolean isInCart(Product product){
-        for(CartProduct cartProduct : cart){
+        for(OrderedProduct cartProduct : cart){
             if (cartProduct.getProduct().equals(product)){
                 return true;
             }
@@ -63,7 +63,7 @@ public class Cart implements Serializable{
 
     public static void updateQuantity(Long id, int quantity){
         for(int i = 0; i < cart.size(); i++){
-            CartProduct cartProduct = cart.get(i);
+            OrderedProduct cartProduct = cart.get(i);
             if (cartProduct.getProduct().getId().equals(id)){
                 cartProduct.setQuantity(quantity);
             }

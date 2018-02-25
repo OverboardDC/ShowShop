@@ -2,6 +2,7 @@ package com.over.snowshop.entities;
 
 import javax.persistence.*;
 import java.util.Date;
+import java.util.List;
 import java.util.Set;
 
 @Entity
@@ -14,7 +15,7 @@ public class Order {
     private Long id;
 
     @OneToMany(mappedBy = "order")
-    private Set<OrderedProduct> orderedProducts;
+    private List<OrderedProduct> orderedProducts;
 
     @Column(name = "firstname")
     private String firstName;
@@ -48,11 +49,11 @@ public class Order {
         this.id = id;
     }
 
-    public Set<OrderedProduct> getOrderedProducts() {
+    public List<OrderedProduct> getOrderedProducts() {
         return orderedProducts;
     }
 
-    public void setOrderedProducts(Set<OrderedProduct> orderedProducts) {
+    public void setOrderedProducts(List<OrderedProduct> orderedProducts) {
         this.orderedProducts = orderedProducts;
     }
 

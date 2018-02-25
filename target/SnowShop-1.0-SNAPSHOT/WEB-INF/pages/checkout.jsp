@@ -30,44 +30,53 @@
             </div>
 
             <div class="checkout_main">
-                <form>
+                <c:url value="/formOrder" var="formOrder"/>
+                <form:form modelAttribute="order" action="formOrder">
                     <div class="checkout_left">
                         <h3>Enter your data</h3>
                         <p class="checkout_input_data_row ">
                             <label>First name*</label>
-                            <input title="firstname" type="text"/>
+                            <form:input path="firstName" type="text"/>
+                            <form:errors path="firstName" cssStyle="color: red"/>
                         </p>
                         <p class="checkout_input_data_row">
                             <label>Last name*</label>
-                            <input title="lastname" type="text"/>
+                            <form:input path="lastName" type="text"/>
+                            <form:errors path="lastName" cssStyle="color: red"/>
                         </p>
                         <div class="clearfix"></div>
                         <p class="checkout_input_data">
                             <label>City*</label>
-                            <input title="city" type="text"/>
+                            <form:input path="city" type="text"/>
+                            <form:errors path="city" cssStyle="color: red"/>
                         </p>
                         <p class="checkout_input_data">
                             <label>Address*</label>
-                            <input title="address" type="text"/>
+                            <form:input path="address" type="text"/>
+                            <form:errors path="address" cssStyle="color: red"/>
                         </p>
                         <p class="checkout_input_data">
                             <label>Email</label>
-                            <input title="email" type="text"/>
+                            <form:input path="email" type="text"/>
+                            <form:errors path="email" cssStyle="color: red"/>
                         </p>
                         <p class="checkout_input_data">
                             <label>Contact phone number*</label>
-                            <input title="phone" type="text"/>
+                            <form:input path="phone" type="text"/>
+                            <form:errors path="phone" cssStyle="color: red"/>
                         </p>
                         <div class="clearfix"></div>
                         <p class="checkout_input_data">
                             <label>Comment to the order</label>
-                            <textarea title="comments" placeholder="Additional wishes"></textarea>
+                            <form:textarea path="comment" placeholder="Additional wishes"/>
+                            <form:errors path="comment" cssStyle="color: red"/>
                         </p>
                         <div class="clearfix"></div>
                     </div>
                     <div class="checkout_right">
                         <div class="checkout_preview">
                             <h3>Your order</h3>
+                            <form:errors path="orderedProducts" cssStyle="color: red"/>
                             <table>
                                 <thead>
                                 <tr>
@@ -99,7 +108,7 @@
                                     <td class="total_column">
                                         <ul>
                                             <li>
-                                                <input name="shipping" type="radio"/>
+                                                <input name="shipping" type="radio" checked/>
                                                 <label>By post</label>
                                             </li>
                                             <li>
@@ -115,7 +124,7 @@
                         </div>
                     </div>
                     <div class="clearfix"></div>
-                </form>
+                </form:form>
             </div>
         </section>
     </div>
